@@ -2,14 +2,16 @@
 
 A (planned) collection of date and time helpers
 
-## Time zone conversion
+## Features
+
+### Time zone conversion
 
 * Local
 * UTC
 * Choose from [tz database](https://en.wikipedia.org/wiki/Tz_database)
 * Custom offset
 
-## Formatters
+### Formatters
 
 * Date only, time only, or date+time
 * [Unix time](https://en.wikipedia.org/wiki/Unix_time)
@@ -23,6 +25,7 @@ A (planned) collection of date and time helpers
 
 ## Tech
 
+* [TypeScript](https://www.typescriptlang.org/)
 * [moment\/luxon](https://github.com/moment/luxon)
 * UI
   * [Adaptive website layout\: the overview of approaches and CSS frameworks \| JazzTeam technical articles](https://jazzteam.org/en/technical-articles/overview-of-approaches-and-css-frameworks-for-adaptive-web-page-layout/)
@@ -34,6 +37,6 @@ A (planned) collection of date and time helpers
 
 ## To-do
 
-* Finalize tech stack
-* UX mindmap, info arch
+* ~~UX mindmap, info arch~~
 * Wireframe UI
+* Finalize UI tech
