@@ -23,6 +23,10 @@ A (planned) collection of date and time helpers
   * Varying decimal precision
 * Custom [Luxon](https://moment.github.io/luxon/#/formatting?id=table-of-tokens) strings
 
+### NPM package
+
+* Extract core logic and TypeScript definitions into an NPM package
+
 ## Tech
 
 * [TypeScript](https://www.typescriptlang.org/)
